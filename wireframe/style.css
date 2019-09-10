@@ -35,7 +35,7 @@ header {
 }
 
 .response-image, .final-image {
-	height: 300px;
+	width: 70%;
 }
 
 label {
