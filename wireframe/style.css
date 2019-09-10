@@ -38,5 +38,9 @@ header {
 	height: 300px;
 }
 
+label {
+	display: inline;
+}
+
 
 
