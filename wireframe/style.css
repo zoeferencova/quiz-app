@@ -30,11 +30,6 @@ header {
 	margin: auto;
 }
 
-label {
-	display: block;
-	margin-bottom: 30px;
-}
-
 .question-counter {
 	margin-right: 150px;
 }
@@ -42,4 +37,6 @@ label {
 .response-image, .final-image {
 	height: 300px;
 }
+
+
 
