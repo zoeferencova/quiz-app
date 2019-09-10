@@ -2,16 +2,22 @@
   box-sizing: border-box;
 }
 
+body {
+	text-align: center;
+	padding: 5%;
+}
+
 .quiz-box {
 	display: flex;
 	flex-direction: column;
 	align-items: center;
 	justify-content: space-between;
-	margin: 10% auto;
+	margin: 0 auto;
 	background: lightgray;
 	max-width: 1000px;
 	min-height: 600px;
 	padding: 5%;
+	margin-top: 50px;
 }
 
 header {
@@ -19,6 +25,21 @@ header {
 	text-align: center;
 }
 
-.btn {
-	
+.question-field {
+	padding: 5%;
+	margin: auto;
 }
+
+label {
+	display: block;
+	margin-bottom: 30px;
+}
+
+.question-counter {
+	margin-right: 150px;
+}
+
+.response-image, .final-image {
+	height: 300px;
+}
+
