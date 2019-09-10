@@ -4,9 +4,21 @@
 
 .quiz-box {
 	display: flex;
+	flex-direction: column;
 	align-items: center;
+	justify-content: space-between;
 	margin: 10% auto;
 	background: lightgray;
-	max-width: 800px;
+	max-width: 1000px;
+	min-height: 600px;
 	padding: 5%;
+}
+
+header {
+	margin: auto;
+	text-align: center;
+}
+
+.btn {
+	
 }
