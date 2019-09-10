@@ -1,0 +1,12 @@
+* {
+  box-sizing: border-box;
+}
+
+.quiz-box {
+	display: flex;
+	align-items: center;
+	margin: 0 auto;
+	background: lightgray;
+	max-width: 800px;
+	padding: 5%;
+}
