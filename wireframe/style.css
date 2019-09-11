@@ -4,7 +4,7 @@
 
 body {
 	text-align: center;
-	padding: 5%;
+	padding: 2%;
 }
 
 .quiz-box {
@@ -15,7 +15,8 @@ body {
 	margin: 0 auto;
 	background: lightgray;
 	max-width: 1000px;
-	min-height: 600px;
+	min-height: 300px;
+	max-height: 800px;
 	padding: 5%;
 	margin-top: 50px;
 }
